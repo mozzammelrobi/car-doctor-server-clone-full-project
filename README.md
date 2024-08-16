@@ -90,6 +90,6 @@ vercel --prod
 - check your public API
 ```
 
-![Description of image]('code.jpg')
+![Description of image](https://i.ibb.co/mTJzv7f/code-1.jpg)
 
 # Server Deployment Done
